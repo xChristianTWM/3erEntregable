@@ -1,131 +1,131 @@
 [
     {
-        "id": "abrigo-01",
-        "titulo": "Abrigo 01",
-        "imagen": "./img/abrigos/01.jpg",
+        "id": "campera-01",
+        "titulo": "Campera 01",
+        "imagen": "./img/camperas/01.jpg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
+            "nombre": "Camperas",
+            "id": "camperas"
         },
         "precio": 75000
     },
     {
         "id": "abrigo-02",
-        "titulo": "Abrigo 02",
-        "imagen": "./img/abrigos/02.jpg",
+        "titulo": "Campera 02",
+        "imagen": "./img/camperas/02.jpg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
+            "nombre": "Camperas",
+            "id": "camperas"
         },
         "precio": 65000
     },
     {
         "id": "abrigo-03",
-        "titulo": "Abrigo 03",
-        "imagen": "./img/abrigos/03.jpg",
+        "titulo": "Campera 03",
+        "imagen": "./img/camperas/03.jpg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
+            "nombre": "Camperas",
+            "id": "camperas"
         },
         "precio": 41000
     },
     {
         "id": "abrigo-04",
-        "titulo": "Abrigo 04",
-        "imagen": "./img/abrigos/04.jpg",
+        "titulo": "Campera 04",
+        "imagen": "./img/camperas/04.jpg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
+            "nombre": "Camperas",
+            "id": "camperas"
         },
         "precio": 15000
     },
     {
         "id": "abrigo-05",
-        "titulo": "Abrigo 05",
-        "imagen": "./img/abrigos/05.jpg",
+        "titulo": "Campera 05",
+        "imagen": "./img/camperas/05.jpg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
+            "nombre": "Camperas",
+            "id": "camperas"
         },
         "precio": 80000
     },
     {
-        "id": "camiseta-01",
-        "titulo": "Camiseta 01",
-        "imagen": "./img/camisetas/01.jpg",
+        "id": "remera-01",
+        "titulo": "Remera 01",
+        "imagen": "./img/remeras/01.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Remera",
+            "id": "remeras"
         },
         "precio": 10000
     },
     {
-        "id": "camiseta-02",
-        "titulo": "Camiseta 02",
-        "imagen": "./img/camisetas/02.jpg",
+        "id": "remera-02",
+        "titulo": "Remera 02",
+        "imagen": "./img/remeras/02.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Remera",
+            "id": "remeras"
         },
         "precio": 12000
     },
     {
-        "id": "camiseta-03",
-        "titulo": "Camiseta 03",
-        "imagen": "./img/camisetas/03.jpg",
+        "id": "remera-03",
+        "titulo": "Remera 03",
+        "imagen": "./img/remeras/03.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Remera",
+            "id": "remeras"
         },
         "precio": 13000
     },
     {
-        "id": "camiseta-04",
-        "titulo": "Camiseta 04",
-        "imagen": "./img/camisetas/04.jpg",
+        "id": "remera-04",
+        "titulo": "Remera 04",
+        "imagen": "./img/remeras/04.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Remera",
+            "id": "remeras"
         },
         "precio": 11000
     },
     {
-        "id": "camiseta-05",
-        "titulo": "Camiseta 05",
-        "imagen": "./img/camisetas/05.jpg",
+        "id": "remera-05",
+        "titulo": "Remera 05",
+        "imagen": "./img/remeras/05.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Remera",
+            "id": "remeras"
         },
         "precio": 15000
     },
     {
-        "id": "camiseta-06",
-        "titulo": "Camiseta 06",
-        "imagen": "./img/camisetas/06.jpg",
+        "id": "remera-06",
+        "titulo": "Remera 06",
+        "imagen": "./img/remeras/06.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Remera",
+            "id": "remeras"
         },
         "precio": 12000
     },
     {
-        "id": "camiseta-07",
-        "titulo": "Camiseta 07",
-        "imagen": "./img/camisetas/07.jpg",
+        "id": "remera-07",
+        "titulo": "Remera 07",
+        "imagen": "./img/remeras/07.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Remera",
+            "id": "remeras"
         },
         "precio": 13000
     },
     {
-        "id": "camiseta-08",
-        "titulo": "Camiseta 08",
-        "imagen": "./img/camisetas/08.jpg",
+        "id": "remera-08",
+        "titulo": "Remera 08",
+        "imagen": "./img/remeras/08.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Remera",
+            "id": "remeras"
         },
         "precio": 19000
     },
